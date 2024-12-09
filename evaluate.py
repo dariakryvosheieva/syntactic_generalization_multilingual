@@ -1,6 +1,5 @@
 import os
 import json
-import torch
 from transformers import (
     BloomForCausalLM,
     GPT2LMHeadModel,
@@ -12,9 +11,6 @@ from transformers import (
     AutoTokenizer
 )
 from minicons import scorer
-
-
-device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
 def accuracy(scoring_function, suite_name, suite):
