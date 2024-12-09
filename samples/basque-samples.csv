@@ -1,0 +1,43 @@
+,suite,grammatical,ungrammatical
+7,subject-S_DO_V_AUX,Txerriak musikariak bilatzen ditu.,Txerriak musikariak bilatzen dituzte.
+36,indirect_object-IO_S_V_AUX,Erizainei hartza gustatuko zaie.,Erizainei hartza gustatuko zaio.
+39,indirect_object-IO_S_V_AUX,Kazetariari katuak interesatu zitzaizkion.,Kazetariari katuak interesatu zitzaizkien.
+31,indirect_object-S_IO_DO_V_AUX,Hontzak marrazoei poltsa ematen die.,Hontzak marrazoei poltsa ematen dio.
+40,control,Urak ibar osoa bete zuen.,Urak ibar osoa bete neuz.
+16,subject-IO_S_V_AUX,Liburuzainari marrazoak interesatu zitzaizkion.,Liburuzainari marrazoak interesatu zitzaion.
+30,indirect_object-S_IO_DO_V_AUX,Arrantzaleak neskei abestia esaten die.,Arrantzaleak neskei abestia esaten dio.
+3,subject-S_V_AUX,Zientzialariak etortzen dira.,Zientzialariak etortzen da.
+33,indirect_object-S_IO_DO_V_AUX,Ertzainek botikariari laranjak saltzen dizkiote.,Ertzainek botikariari laranjak saltzen dizkiete.
+29,direct_object-S_IO_DO_V_AUX,Entrenatzaileak enpresaburuari txostenak idatziko dizkio.,Entrenatzaileak enpresaburuari txostenak idatziko dio.
+15,subject-IO_S_V_AUX,Entrenatzaileei azenarioa gustatu zitzaien.,Entrenatzaileei azenarioa gustatu zitzaizkien.
+41,control,Goizeko trenean etorri ziren.,Goizeko trenean etorri neriz.
+37,indirect_object-IO_S_V_AUX,Medikuari karramarroak gustatzen zaizkio.,Medikuari karramarroak gustatzen zaizkie.
+8,subject-S_DO_V_AUX,Margolariek jostailua garbitzen dute.,Margolariek jostailua garbitzen du.
+24,direct_object-S_DO_V_AUX,Aktoreak botilak erabiltzen ditu.,Aktoreak botilak erabiltzen du.
+19,subject-IO_S_V_AUX,Argazkilariei barraskiloa gustatzen zaie.,Argazkilariei barraskiloa gustatzen zaizkie.
+22,direct_object-S_DO_V_AUX,Saltzaileak tomateak prestatu zituen.,Saltzaileak tomateak prestatu zuen.
+13,subject-S_IO_DO_V_AUX,Tximeletek euliari baloia oparitu zioten.,Tximeletek euliari baloia oparitu zion.
+20,direct_object-S_DO_V_AUX,Ertzainak kopak erakutsi zituen.,Ertzainak kopak erakutsi zuen.
+27,direct_object-S_IO_DO_V_AUX,Txakurrak liburuzainari mertxikak ematen dizkio.,Txakurrak liburuzainari mertxikak ematen dio.
+32,indirect_object-S_IO_DO_V_AUX,Atsoek nerabeari berriak esaten dizkiote.,Atsoek nerabeari berriak esaten dizkiete.
+18,subject-IO_S_V_AUX,Lorezainari krokodiloak interesatu zitzaizkion.,Lorezainari krokodiloak interesatu zitzaion.
+38,indirect_object-IO_S_V_AUX,Abokatuari otsoak gustatuko zaizkio.,Abokatuari otsoak gustatuko zaizkie.
+25,direct_object-S_IO_DO_V_AUX,Astoek lehendakariei pintzela eman zieten.,Astoek lehendakariei pintzela eman zizkieten.
+1,subject-S_V_AUX,Azeria jauzi egin zen.,Azeria jauzi egin ziren.
+21,direct_object-S_DO_V_AUX,Arrainak idazkariak ikusi zituen.,Arrainak idazkariak ikusi zuen.
+34,indirect_object-S_IO_DO_V_AUX,Lehoinabarrek sorosleari gailetak oparitzen dizkiote.,Lehoinabarrek sorosleari gailetak oparitzen dizkiete.
+14,subject-S_IO_DO_V_AUX,Entrenatzaileak abeslariei berriak esango dizkie.,Entrenatzaileak abeslariei berriak esango dizkiete.
+4,subject-S_V_AUX,Lorezainak irribarre egingo dira.,Lorezainak irribarre egingo da.
+0,subject-S_V_AUX,Epailea mintzatzen da.,Epailea mintzatzen dira.
+2,subject-S_V_AUX,Ardia atseden hartu zen.,Ardia atseden hartu ziren.
+6,subject-S_DO_V_AUX,Nekazariek intxaurra prestatzen dute.,Nekazariek intxaurra prestatzen du.
+17,subject-IO_S_V_AUX,Albaitariei tximinoa interesatzen zaie.,Albaitariei tximinoa interesatzen zaizkie.
+5,subject-S_DO_V_AUX,Astoek behia bilatuko dute.,Astoek behia bilatuko du.
+35,indirect_object-IO_S_V_AUX,Liburuzainari dortokak gustatzen zaizkio.,Liburuzainari dortokak gustatzen zaizkie.
+26,direct_object-S_IO_DO_V_AUX,Nerabeak mutilari eskutitzak idazten dizkio.,Nerabeak mutilari eskutitzak idazten dio.
+12,subject-S_IO_DO_V_AUX,Diseinatzaileek epaileari marrubia ematen diote.,Diseinatzaileek epaileari marrubia ematen dio.
+23,direct_object-S_DO_V_AUX,Idazkariak tulipak saltzen ditu.,Idazkariak tulipak saltzen du.
+28,direct_object-S_IO_DO_V_AUX,Argazkilariak margolariari tomateak saltzen dizkio.,Argazkilariak margolariari tomateak saltzen dio.
+11,subject-S_IO_DO_V_AUX,Atsoak emakumeei txostenak idazten dizkie.,Atsoak emakumeei txostenak idazten dizkiete.
+9,subject-S_DO_V_AUX,Diseinatzaileek koadernoa hartuko dute.,Diseinatzaileek koadernoa hartuko du.
+10,subject-S_IO_DO_V_AUX,Abeslariek lapurrari garrasia esan zioten.,Abeslariek lapurrari garrasia esan zion.

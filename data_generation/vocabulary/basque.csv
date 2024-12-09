@@ -1,0 +1,327 @@
+word,category,subcategory,tense,possible_S,possible_DO,possible_IO
+abeslari,n,person,_,_,_,_
+abokatu,n,person,_,_,_,_
+agure,n,person,_,_,_,_
+aktore,n,person,_,_,_,_
+albaitari,n,person,_,_,_,_
+argazkilari,n,person,_,_,_,_
+arkitekto,n,person,_,_,_,_
+arrantzale,n,person,_,_,_,_
+atso,n,person,_,_,_,_
+bidaiari,n,person,_,_,_,_
+botikari,n,person,_,_,_,_
+dantzari,n,person,_,_,_,_
+diseinatzaile,n,person,_,_,_,_
+emakume,n,person,_,_,_,_
+enpresaburu,n,person,_,_,_,_
+entrenatzaile,n,person,_,_,_,_
+epaile,n,person,_,_,_,_
+erizain,n,person,_,_,_,_
+errementari,n,person,_,_,_,_
+ertzain,n,person,_,_,_,_
+gizon,n,person,_,_,_,_
+haur,n,person,_,_,_,_
+idazkari,n,person,_,_,_,_
+idazle,n,person,_,_,_,_
+ikasle,n,person,_,_,_,_
+ingeniari,n,person,_,_,_,_
+irakasle,n,person,_,_,_,_
+itzultzaile,n,person,_,_,_,_
+kazetari,n,person,_,_,_,_
+kirolari,n,person,_,_,_,_
+kontulari,n,person,_,_,_,_
+lapur,n,person,_,_,_,_
+lehendakari,n,person,_,_,_,_
+liburuzain,n,person,_,_,_,_
+lorezain,n,person,_,_,_,_
+margolari,n,person,_,_,_,_
+mediku,n,person,_,_,_,_
+musikari,n,person,_,_,_,_
+mutil,n,person,_,_,_,_
+nekazari,n,person,_,_,_,_
+neska,n,person,_,_,_,_
+nerabe,n,person,_,_,_,_
+olerkari,n,person,_,_,_,_
+pilotu,n,person,_,_,_,_
+programatzaile,n,person,_,_,_,_
+psikologo,n,person,_,_,_,_
+saltzaile,n,person,_,_,_,_
+sorosle,n,person,_,_,_,_
+sukaldari,n,person,_,_,_,_
+zientzialari,n,person,_,_,_,_
+zirujau,n,person,_,_,_,_
+ahate,n,animal,_,_,_,_
+antilope,n,animal,_,_,_,_
+antzara,n,animal,_,_,_,_
+ardi,n,animal,_,_,_,_
+armiarma,n,animal,_,_,_,_
+arrain,n,animal,_,_,_,_
+arrano,n,animal,_,_,_,_
+arratoi,n,animal,_,_,_,_
+asto,n,animal,_,_,_,_
+azeri,n,animal,_,_,_,_
+barraskilo,n,animal,_,_,_,_
+behi,n,animal,_,_,_,_
+dortoka,n,animal,_,_,_,_
+elefante,n,animal,_,_,_,_
+erbi,n,animal,_,_,_,_
+erle,n,animal,_,_,_,_
+euli,n,animal,_,_,_,_
+gamelu,n,animal,_,_,_,_
+gepardo,n,animal,_,_,_,_
+hamster,n,animal,_,_,_,_
+hartz,n,animal,_,_,_,_
+hontz,n,animal,_,_,_,_
+igel,n,animal,_,_,_,_
+inurri,n,animal,_,_,_,_
+indioilar,n,animal,_,_,_,_
+jirafa,n,animal,_,_,_,_
+katu,n,animal,_,_,_,_
+karramarro,n,animal,_,_,_,_
+krokodilo,n,animal,_,_,_,_
+lehoi,n,animal,_,_,_,_
+lehoinabar,n,animal,_,_,_,_
+mapatxe,n,animal,_,_,_,_
+marrazo,n,animal,_,_,_,_
+musker,n,animal,_,_,_,_
+oilo,n,animal,_,_,_,_
+orein,n,animal,_,_,_,_
+ostruka,n,animal,_,_,_,_
+otso,n,animal,_,_,_,_
+sagu,n,animal,_,_,_,_
+suge,n,animal,_,_,_,_
+tigre,n,animal,_,_,_,_
+triku,n,animal,_,_,_,_
+txakur,n,animal,_,_,_,_
+txerri,n,animal,_,_,_,_
+tximeleta,n,animal,_,_,_,_
+tximino,n,animal,_,_,_,_
+txolarre,n,animal,_,_,_,_
+txori,n,animal,_,_,_,_
+untxi,n,animal,_,_,_,_
+uso,n,animal,_,_,_,_
+zaldi,n,animal,_,_,_,_
+zebra,n,animal,_,_,_,_
+anana,n,food,_,_,_,_
+aran,n,food,_,_,_,_
+azenario,n,food,_,_,_,_
+gaileta,n,food,_,_,_,_
+gerezi,n,food,_,_,_,_
+gozo,n,food,_,_,_,_
+intxaur,n,food,_,_,_,_
+laranja,n,food,_,_,_,_
+mango,n,food,_,_,_,_
+marrubi,n,food,_,_,_,_
+masusta,n,food,_,_,_,_
+mertxika,n,food,_,_,_,_
+pastela,n,food,_,_,_,_
+perretxiko,n,food,_,_,_,_
+sagar,n,food,_,_,_,_
+tomate,n,food,_,_,_,_
+udare,n,food,_,_,_,_
+arkatz,n,tool,_,_,_,_
+botila,n,tool,_,_,_,_
+edalontzi,n,tool,_,_,_,_
+erregela,n,tool,_,_,_,_
+giltza,n,tool,_,_,_,_
+euritako,n,tool,_,_,_,_
+hortzetako eskuila,n,tool,_,_,_,_
+jostorratz,n,tool,_,_,_,_
+kaldera,n,tool,_,_,_,_
+kateorratz,n,tool,_,_,_,_
+koilara,n,tool,_,_,_,_
+kopa,n,tool,_,_,_,_
+mailu,n,tool,_,_,_,_
+ordenagailu,n,tool,_,_,_,_
+pintzel,n,tool,_,_,_,_
+plater,n,tool,_,_,_,_
+poltsa,n,tool,_,_,_,_
+sardexka,n,tool,_,_,_,_
+telefono,n,tool,_,_,_,_
+auto,n,transport,_,_,_,_
+hegazkin,n,transport,_,_,_,_
+kamioi,n,transport,_,_,_,_
+tren,n,transport,_,_,_,_
+abesti,n,text,_,_,_,_
+eleberri,n,text,_,_,_,_
+eskutitz,n,text,_,_,_,_
+olerki,n,text,_,_,_,_
+txosten,n,text,_,_,_,_
+abesti,n,speech,_,_,_,_
+berri,n,speech,_,_,_,_
+garrasi,n,speech,_,_,_,_
+istorio,n,speech,_,_,_,_
+hitzaldi,n,speech,_,_,_,_
+adreilu,n,other,_,_,_,_
+arrosa,n,other,_,_,_,_
+aulki,n,other,_,_,_,_
+baloi,n,other,_,_,_,_
+basabitxilore,n,other,_,_,_,_
+burko,n,other,_,_,_,_
+eskumuturreko,n,other,_,_,_,_
+jostailu,n,other,_,_,_,_
+koaderno,n,other,_,_,_,_
+krisantemo,n,other,_,_,_,_
+lepoko,n,other,_,_,_,_
+liburu,n,other,_,_,_,_
+lore,n,other,_,_,_,_
+luma,n,other,_,_,_,_
+panpin,n,other,_,_,_,_
+tulipa,n,other,_,_,_,_
+zitori,n,other,_,_,_,_
+atseden hartu,v,nor,PST,person animal,_,_
+atseden hartzen,v,nor,PRS,person animal,_,_
+atseden hartuko,v,nor,FUT,person animal,_,_
+barre egin,v,nor,PST,person,_,_
+barre egiten,v,nor,PRS,person,_,_
+barre egingo,v,nor,FUT,person,_,_
+eseri,v,nor,PST,person animal,_,_
+esertzen,v,nor,PRS,person animal,_,_
+eseriko,v,nor,FUT,person animal,_,_
+esnatu,v,nor,PST,person animal,_,_
+esnatzen,v,nor,PRS,person animal,_,_
+esnatuko,v,nor,FUT,person animal,_,_
+etorri,v,nor,PST,person animal,_,_
+etortzen,v,nor,PRS,person animal,_,_
+etorriko,v,nor,FUT,person animal,_,_
+irribarre egin,v,nor,PST,person,_,_
+irribarre egiten,v,nor,PRS,person,_,_
+irribarre egingo,v,nor,FUT,person,_,_
+jauzi egin,v,nor,PST,person animal,_,_
+jauzi egiten,v,nor,PRS,person animal,_,_
+jauzi egingo,v,nor,FUT,person animal,_,_
+korrika egin,v,nor,PST,person animal,_,_
+korrika egiten,v,nor,PRS,person animal,_,_
+korrika egingo,v,nor,FUT,person animal,_,_
+lan egin,v,nor,PST,person animal,_,_
+lan egiten,v,nor,PRS,person animal,_,_
+lan egingo,v,nor,FUT,person animal,_,_
+lo egin,v,nor,PST,person animal,_,_
+lo egiten,v,nor,PRS,person animal,_,_
+lo egingo,v,nor,FUT,person animal,_,_
+mintzatu,v,nor,PST,person,_,_
+mintzatzen,v,nor,PRS,person,_,_
+mintzatuko,v,nor,FUT,person,_,_
+oihukatu,v,nor,PST,person animal,_,_
+oihukatzen,v,nor,PRS,person animal,_,_
+oihukatuko,v,nor,FUT,person animal,_,_
+sartu,v,nor,PST,person animal,_,_
+sartzen,v,nor,PRS,person animal,_,_
+sartuko,v,nor,FUT,person animal,_,_
+aurkitu,v,nor-nork,PST,person animal,person animal food tool transport other,_
+aurkitzen,v,nor-nork,PRS,person animal,person animal food tool transport other,_
+aurkituko,v,nor-nork,FUT,person animal,person animal food tool transport other,_
+bilatu,v,nor-nork,PST,person animal,person animal food tool transport other,_
+bilatzen,v,nor-nork,PRS,person animal,person animal food tool transport other,_
+bilatuko,v,nor-nork,FUT,person animal,person animal food tool transport other,_
+egin,v,nor-nork,PST,person,food tool transport other,_
+egiten,v,nor-nork,PRS,person,food tool transport other,_
+egingo,v,nor-nork,FUT,person,food tool transport other,_
+ekarri,v,nor-nork,PST,person,food tool other,_
+ekartzen,v,nor-nork,PRS,person,food tool other,_
+ekarriko,v,nor-nork,FUT,person,food tool other,_
+entzun,v,nor-nork,PST,person animal,person animal transport speech,_
+entzuten,v,nor-nork,PRS,person animal,person animal transport speech,_
+entzungo,v,nor-nork,FUT,person animal,person animal transport speech,_
+erabili,v,nor-nork,PST,person,tool,_
+erabiltzen,v,nor-nork,PRS,person,tool,_
+erabiliko,v,nor-nork,FUT,person,tool,_
+erakutsi,v,nor-nork,PST,person animal,tool,_
+erakusten,v,nor-nork,PRS,person animal,tool,_
+erakutsiko,v,nor-nork,FUT,person animal,tool,_
+erosi,v,nor-nork,PST,person,food tool other,_
+erosten,v,nor-nork,PRS,person,food tool other,_
+erosiko,v,nor-nork,FUT,person,food tool other,_
+errespetatu,v,nor-nork,PST,person,person,_
+errespetatzen,v,nor-nork,PRS,person,person,_
+errespetatuko,v,nor-nork,FUT,person,person,_
+esnatu,v,nor-nork,PST,person animal,person animal,_
+esnatzen,v,nor-nork,PRS,person animal,person animal,_
+esnatuko,v,nor-nork,FUT,person animal,person animal,_
+ezagutu,v,nor-nork,PST,person,person,_
+ezagutzen,v,nor-nork,PRS,person,person,_
+ezagutuko,v,nor-nork,FUT,person,person,_
+garbitu,v,nor-nork,PST,person,food tool other,_
+garbitzen,v,nor-nork,PRS,person,food tool other,_
+garbituko,v,nor-nork,FUT,person,food tool other,_
+harrapatu,v,nor-nork,PST,person,tool other,_
+harrapatzen,v,nor-nork,PRS,person,tool other,_
+harrapatuko,v,nor-nork,FUT,person,tool other,_
+hartu,v,nor-nork,PST,person,food tool other,_
+hartzen,v,nor-nork,PRS,person,food tool other,_
+hartuko,v,nor-nork,FUT,person,food tool other,_
+ikusi,v,nor-nork,PST,person animal,person animal food tool transport other,_
+ikusten,v,nor-nork,PRS,person animal,person animal food tool transport other,_
+ikusiko,v,nor-nork,FUT,person animal,person animal food tool transport other,_
+jan,v,nor-nork,PST,person,food,_
+jaten,v,nor-nork,PRS,person,food,_
+jango,v,nor-nork,FUT,person,food,_
+marraztu,v,nor-nork,PST,person,person animal food tool transport other,_
+marrazten,v,nor-nork,PRS,person,person animal food tool transport other,_
+marraztuko,v,nor-nork,FUT,person,person animal food tool transport other,_
+prestatu,v,nor-nork,PST,person,food,_
+prestatzen,v,nor-nork,PRS,person,food,_
+prestatuko,v,nor-nork,FUT,person,food,_
+saldu,v,nor-nork,PST,person,food tool other,_
+saltzen,v,nor-nork,PRS,person,food tool other,_
+salduko,v,nor-nork,FUT,person,food tool other,_
+eman,v,nor-nori-nork,PST,person animal,food tool other,person animal
+ematen,v,nor-nori-nork,PRS,person animal,food tool other,person animal
+emango,v,nor-nori-nork,FUT,person animal,food tool other,person animal
+erosi,v,nor-nori-nork,PST,person,food tool other,person
+erosten,v,nor-nori-nork,PRS,person,food tool other,person
+erosiko,v,nor-nori-nork,FUT,person,food tool other,person
+esan,v,nor-nori-nork,PST,person,speech,person
+esaten,v,nor-nori-nork,PRS,person,speech,person
+esango,v,nor-nori-nork,FUT,person,speech,person
+idatzi,v,nor-nori-nork,PST,person,text,person
+idazten,v,nor-nori-nork,PRS,person,text,person
+idatziko,v,nor-nori-nork,FUT,person,text,person
+oparitu,v,nor-nori-nork,PST,person animal,food tool other,person animal
+oparitzen,v,nor-nori-nork,PRS,person animal,food tool other,person animal
+oparituko,v,nor-nori-nork,FUT,person animal,food tool other,person animal
+saldu,v,nor-nori-nork,PST,person,food tool other,person
+saltzen,v,nor-nori-nork,PRS,person,food tool other,person
+salduko,v,nor-nori-nork,FUT,person,food tool other,person
+gustatu,v,nor-nori,PST,animal food,_,person
+gustatzen,v,nor-nori,PRS,animal food,_,person
+gustatuko,v,nor-nori,FUT,animal food,_,person
+interesatu,v,nor-nori,PST,animal transport,_,person
+interesatzen,v,nor-nori,PRS,animal transport,_,person
+interesatuko,v,nor-nori,FUT,animal transport,_,person
+da,aux,nor,PRS FUT,sg,_,_
+dira,aux,nor,PRS FUT,pl,_,_
+zen,aux,nor,PST,sg,_,_
+ziren,aux,nor,PST,pl,_,_
+du,aux,nor-nork,PRS FUT,sg,sg,_
+ditu,aux,nor-nork,PRS FUT,sg,pl,_
+dute,aux,nor-nork,PRS FUT,pl,sg,_
+dituzte,aux,nor-nork,PRS FUT,pl,pl,_
+zuen,aux,nor-nork,PST,sg,sg,_
+zituen,aux,nor-nork,PST,sg,pl,_
+zuten,aux,nor-nork,PST,pl,sg,_
+zituzten,aux,nor-nork,PST,pl,pl,_
+dio,aux,nor-nori-nork,PRS FUT,sg,sg,sg
+die,aux,nor-nori-nork,PRS FUT,sg,sg,pl
+dizkio,aux,nor-nori-nork,PRS FUT,sg,pl,sg
+dizkie,aux,nor-nori-nork,PRS FUT,sg,pl,pl
+diote,aux,nor-nori-nork,PRS FUT,pl,sg,sg
+diete,aux,nor-nori-nork,PRS FUT,pl,sg,pl
+dizkiote,aux,nor-nori-nork,PRS FUT,pl,pl,sg
+dizkiete,aux,nor-nori-nork,PRS FUT,pl,pl,pl
+zion,aux,nor-nori-nork,PST,sg,sg,sg
+zien,aux,nor-nori-nork,PST,sg,sg,pl
+zizkion,aux,nor-nori-nork,PST,sg,pl,sg
+zizkien,aux,nor-nori-nork,PST,sg,pl,pl
+zioten,aux,nor-nori-nork,PST,pl,sg,sg
+zieten,aux,nor-nori-nork,PST,pl,sg,pl
+zizkioten,aux,nor-nori-nork,PST,pl,pl,sg
+zizkieten,aux,nor-nori-nork,PST,pl,pl,pl
+zaio,aux,nor-nori,PRS FUT,sg,_,sg
+zaizkio,aux,nor-nori,PRS FUT,pl,_,sg
+zaie,aux,nor-nori,PRS FUT,sg,_,pl
+zaizkie,aux,nor-nori,PRS FUT,pl,_,pl
+zitzaion,aux,nor-nori,PST,sg,_,sg
+zitzaizkion,aux,nor-nori,PST,pl,_,sg
+zitzaien,aux,nor-nori,PST,sg,_,pl
+zitzaizkien,aux,nor-nori,PST,pl,_,pl

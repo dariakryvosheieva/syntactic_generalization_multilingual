@@ -1,0 +1,495 @@
+word,category,noun_class,semantic_class,possible_connections
+bibi,n,5,human,_
+mabibi,n,6,human,_
+rafiki,n,5,human,_
+marafiki,n,6,human,_
+mgeni,n,1,human,_
+wageni,n,2,human,_
+mtoto,n,1,human,_
+watoto,n,2,human,_
+mwalimu,n,1,human,_
+waalimu,n,2,human,_
+mwanafunzi,n,1,human,_
+wanafunzi,n,2,human,_
+mwimbaji,n,1,human,_
+waimbaji,n,2,human,_
+mwanasheria,n,1,human,_
+wanasheria,n,2,human,_
+mzee,n,1,human,_
+wazee,n,2,human,_
+mwigizaji,n,1,human,_
+waigizaji,n,2,human,_
+mpiga picha,n,1,human,_
+wapiga picha,n,2,human,_
+mbunifu,n,1,human,_
+wabunifu,n,2,human,_
+mvuvi,n,1,human,_
+wavuvi,n,2,human,_
+msafiri,n,1,human,_
+wasafiri,n,2,human,_
+mchezaji,n,1,human,_
+wachezaji,n,2,human,_
+mwanamke,n,1,human,_
+wanawake,n,2,human,_
+mfanyabiashara,n,1,human,_
+wafanyabiashara,n,2,human,_
+mjasiriamali,n,1,human,_
+wajasiriamali,n,2,human,_
+kocha,n,5,human,_
+makocha,n,6,human,_
+hakimu,n,5,human,_
+mahakimu,n,6,human,_
+muuguzi,n,1,human,_
+wauguzi,n,2,human,_
+mhunzi,n,1,human,_
+wahunzi,n,2,human,_
+mzimamoto,n,1,human,_
+wazimamoto,n,2,human,_
+mwanamume,n,1,human,_
+wanaume,n,2,human,_
+katibu,n,5,human,_
+makatibu,n,6,human,_
+mwandishi,n,1,human,_
+waandishi,n,2,human,_
+mhandisi,n,1,human,_
+wahandisi,n,2,human,_
+mfasiri,n,1,human,_
+wafasiri,n,2,human,_
+mwanariadha,n,1,human,_
+wanariadha,n,2,human,_
+mhasibu,n,1,human,_
+wahasibu,n,2,human,_
+mwizi,n,1,human,_
+wezi,n,2,human,_
+rais,n,5,human,_
+marais,n,6,human,_
+mkutubi,n,1,human,_
+wakutubi,n,2,human,_
+mtunza bustani,n,1,human,_
+watunza bustani,n,2,human,_
+mchoraji,n,1,human,_
+wachoraji,n,2,human,_
+daktari,n,5,human,_
+madaktari,n,6,human,_
+mwanamuziki,n,1,human,_
+wanamuziki,n,2,human,_
+mvulana,n,1,human,_
+wavulana,n,2,human,_
+mkulima,n,1,human,_
+wakulima,n,2,human,_
+msichana,n,1,human,_
+wasichana,n,2,human,_
+kijana,n,7,human,_
+vijana,n,8,human,_
+mshairi,n,1,human,_
+washairi,n,2,human,_
+rubani,n,5,human,_
+marubani,n,6,human,_
+mtayarishaji programu,n,1,human,_
+watayarishaji programu,n,2,human,_
+mvumbuzi,n,1,human,_
+wavumbuzi,n,2,human,_
+mwanasaikolojia,n,1,human,_
+wanasaikolojia,n,2,human,_
+muuzaji,n,1,human,_
+wauzaji,n,2,human,_
+mlinzi,n,1,human,_
+walinzi,n,2,human,_
+mpishi,n,1,human,_
+wapishi,n,2,human,_
+mwanahabari,n,1,human,_
+wanahabari,n,2,human,_
+mwanasayansi,n,1,human,_
+wanasayansi,n,2,human,_
+mfalme,n,1,human,_
+wafalme,n,2,human,_
+malkia,n,9,human,_
+malkia,n,10,human,_
+mchungaji,n,1,human,_
+wachungaji,n,2,human,_
+bata,n,5,animal,_
+mabata,n,6,animal,_
+kondoo,n,9,animal,_
+kondoo,n,10,animal,_
+samaki,n,9,animal,_
+samaki,n,10,animal,_
+punda,n,9,animal,_
+punda,n,10,animal,_
+ng'ombe,n,9,animal,_
+ng'ombe,n,10,animal,_
+nyuki,n,9,animal,_
+nyuki,n,10,animal,_
+ngamia,n,9,animal,_
+ngamia,n,10,animal,_
+bata mzinga,n,5,animal,_
+mabata mzinga,n,6,animal,_
+paka,n,9,animal,_
+paka,n,10,animal,_
+kuku,n,9,animal,_
+kuku,n,10,animal,_
+mbuni,n,9,animal,_
+mbuni,n,10,animal,_
+mbwa,n,9,animal,_
+mbwa,n,10,animal,_
+nguruwe,n,9,animal,_
+nguruwe,n,10,animal,_
+ndege,n,9,animal,_
+ndege,n,10,animal,_
+sungura,n,9,animal,_
+sungura,n,10,animal,_
+njiwa,n,9,animal,_
+njiwa,n,10,animal,_
+farasi,n,9,animal,_
+farasi,n,10,animal,_
+kasuku,n,9,animal,_
+kasuku,n,10,animal,_
+ndama,n,9,animal,_
+ndama,n,10,animal,_
+swala,n,9,animal,_
+swala,n,10,animal,_
+buibui,n,9,animal,_
+buibui,n,10,animal,_
+tai,n,9,animal,_
+tai,n,10,animal,_
+panya,n,9,animal,_
+panya,n,10,animal,_
+mbweha,n,9,animal,_
+mbweha,n,10,animal,_
+kasa,n,9,animal,_
+kasa,n,10,animal,_
+ndovu,n,9,animal,_
+ndovu,n,10,animal,_
+nzi,n,9,animal,_
+nzi,n,10,animal,_
+duma,n,9,animal,_
+duma,n,10,animal,_
+dubu,n,9,animal,_
+dubu,n,10,animal,_
+bundi,n,9,animal,_
+bundi,n,10,animal,_
+chura,n,7,animal,_
+vyura,n,8,animal,_
+mchwa,n,9,animal,_
+mchwa,n,10,animal,_
+twiga,n,9,animal,_
+twiga,n,10,animal,_
+kaa,n,9,animal,_
+kaa,n,10,animal,_
+mamba,n,9,animal,_
+mamba,n,10,animal,_
+simba,n,9,animal,_
+simba,n,10,animal,_
+chui,n,9,animal,_
+chui,n,10,animal,_
+papa,n,9,animal,_
+papa,n,10,animal,_
+mjusi,n,3,animal,_
+mijusi,n,4,animal,_
+kulungu,n,9,animal,_
+kulungu,n,10,animal,_
+mbwa mwitu,n,9,animal,_
+mbwa mwitu,n,10,animal,_
+nyoka,n,9,animal,_
+nyoka,n,10,animal,_
+kipepeo,n,7,animal,_
+vipepeo,n,8,animal,_
+tumbili,n,9,animal,_
+tumbili,n,10,animal,_
+shomoro,n,9,animal,_
+shomoro,n,10,animal,_
+punda milia,n,9,animal,_
+punda milia,n,10,animal,_
+konokono,n,9,animal,_
+konokono,n,10,animal,_
+kiboko,n,7,animal,_
+viboko,n,8,animal,_
+pomboo,n,9,animal,_
+pomboo,n,10,animal,_
+fisi,n,9,animal,_
+fisi,n,10,animal,_
+nguchiro,n,9,animal,_
+nguchiro,n,10,animal,_
+ngiri,n,9,animal,_
+ngiri,n,10,animal,_
+nyani,n,9,animal,_
+nyani,n,10,animal,_
+ngagi,n,9,animal,_
+ngagi,n,10,animal,_
+kalunguyeye,n,9,animal,_
+kalunguyeye,n,10,animal,_
+nungunungu,n,9,animal,_
+nungunungu,n,10,animal,_
+popo,n,9,animal,_
+popo,n,10,animal,_
+nanasi,n,5,food_countable,_
+mananasi,n,6,food_countable,_
+chungwa,n,5,food_countable,_
+machungwa,n,6,food_countable,_
+embe,n,5,food_countable,_
+maembe,n,6,food_countable,_
+aprikoti,n,5,food_countable,_
+maaprikoti,n,6,food_countable,_
+boga,n,5,food_countable,_
+maboga,n,6,food_countable,_
+ndizi,n,9,food_countable,_
+ndizi,n,10,food_countable,_
+kiazi,n,7,food_countable,_
+kiazi,n,8,food_countable,_
+nazi,n,9,food_countable,_
+nazi,n,10,food_countable,_
+dafu,n,9,food_countable,_
+dafu,n,10,food_countable,_
+kitunguu,n,7,food_countable,_
+vitunguu,n,8,food_countable,_
+limau,n,9,food_countable,_
+limau,n,10,food_countable,_
+matunda,n,6,food_countable,_
+uyoga,n,11,food_countable,_
+keki,n,9,food_countable,_
+keki,n,10,food_countable,_
+biskuti,n,9,food_countable,_
+biskuti,n,10,food_countable,_
+nyanya,n,9,food_countable,_
+nyanya,n,10,food_countable,_
+chakula,n,7,food_uncountable,_
+vyakula,n,8,food_uncountable,_
+pilau,n,9,food_uncountable,_
+mkate,n,3,food_uncountable,_
+tangawizi,n,9,food_uncountable,_
+karanga,n,10,food_uncountable,_
+mahindi,n,6,food_uncountable,_
+unga,n,11,food_uncountable,_
+wali,n,11,food_uncountable,_
+maji,n,6,drink,_
+chai,n,9,drink,_
+kahawa,n,9,drink,_
+penseli,n,9,thing,_
+penseli,n,10,thing,_
+chupa,n,9,thing,_
+chupa,n,10,thing,_
+kikombe,n,7,thing,_
+vikombe,n,8,thing,_
+rula,n,9,thing,_
+rula,n,10,thing,_
+picha,n,9,thing,_
+picha,n,10,thing,_
+mswaki,n,3,thing,_
+miswaki,n,4,thing,_
+sindano,n,9,thing,_
+sindano,n,10,thing,_
+kijiko,n,7,thing,_
+vijiko,n,8,thing,_
+nyundo,n,9,thing,_
+nyundo,n,10,thing,_
+tarakilishi,n,9,thing,_
+tarakilishi,n,10,thing,_
+brashi,n,9,thing,_
+brashi,n,10,thing,_
+sahani,n,9,thing,_
+sahani,n,10,thing,_
+birika,n,5,thing,_
+mabirika,n,6,thing,_
+mfuko,n,3,thing,_
+mifuko,n,4,thing,_
+uma,n,11,thing,_
+nyuma,n,10,thing,_
+ufunguo,n,11,thing,_
+funguo,n,10,thing,_
+simu,n,9,thing,_
+simu,n,10,thing,_
+gari,n,5,thing,_
+magari,n,6,thing,_
+motokaa,n,9,thing,_
+motokaa,n,10,thing,_
+ndege,n,9,thing,_
+ndege,n,10,thing,_
+lori,n,5,thing,_
+malori,n,6,thing,_
+treni,n,9,thing,_
+treni,n,10,thing,_
+baiskeli,n,9,thing,_
+baiskeli,n,10,thing,_
+mashua,n,9,thing,_
+mashua,n,10,thing,_
+tofali,n,5,thing,_
+matofali,n,6,thing,_
+kiti,n,7,thing,_
+viti,n,8,thing,_
+sofa,n,9,thing,_
+sofa,n,10,thing,_
+meza,n,9,thing,_
+meza,n,10,thing,_
+kitanda,n,7,thing,_
+vitanda,n,8,thing,_
+nyumba,n,9,thing,_
+nyumba,n,10,thing,_
+mpira,n,3,thing,_
+mipira,n,4,thing,_
+bangili,n,9,thing,_
+bangili,n,10,thing,_
+mkufu,n,3,thing,_
+mikufu,n,4,thing,_
+mwanasesere,n,1,thing,_
+wanasesere,n,2,thing,_
+kitabu,n,7,thing,_
+vitabu,n,8,thing,_
+ua,n,5,thing,_
+maua,n,6,thing,_
+kalamu,n,9,thing,_
+kalamu,n,10,thing,_
+gazeti,n,5,thing,_
+magazeti,n,6,thing,_
+mkoba,n,3,thing,_
+mikoba,n,4,thing,_
+daftari,n,5,thing,_
+madaftari,n,6,thing,_
+kifutio,n,7,thing,_
+vifutio,n,8,thing,_
+zulia,n,5,thing,_
+mazulia,n,6,thing,_
+ramani,n,9,thing,_
+ramani,n,10,thing,_
+kiyoyozi,n,7,thing,_
+viyoyozi,n,8,thing,_
+mchoro,n,3,thing,_
+michoro,n,4,thing,_
+jarida,n,5,thing,_
+jarida,n,6,thing,_
+panka,n,9,thing,_
+panka,n,10,thing,_
+taulo,n,9,thing,_
+taulo,n,10,thing,_
+kiatu,n,7,thing,_
+viatu,n,8,thing,_
+mwavuli,n,3,thing,_
+miavuli,n,4,thing,_
+sanduku,n,5,thing,_
+masanduku,n,6,thing,_
+jiwe,n,5,thing,_
+mawe,n,6,thing,_
+sufuria,n,9,thing,_
+sufuria,n,10,thing,_
+soksi,n,9,thing,_
+soksi,n,10,thing,_
+kofia,n,9,thing,_
+kofia,n,10,thing,_
+suruali,n,9,thing,_
+suruali,n,10,thing,_
+koti,n,5,thing,_
+makoti,n,6,thing,_
+glavu,n,9,thing,_
+glavu,n,10,thing,_
+nchi,n,9,place,_
+nchi,n,10,place,_
+mji,n,3,place,_
+miji,n,4,place,_
+jiji,n,5,place,_
+majiji,n,6,place,_
+nyumba,n,9,place,_
+nyumba,n,10,place,_
+kasri,n,9,place,_
+kasri,n,10,place,_
+msitu,n,3,place,_
+misitu,n,4,place,_
+savana,n,9,place,_
+savana,n,10,place,_
+shamba,n,5,place,_
+mashamba,n,6,place,_
+bustani,n,9,place,_
+bustani,n,10,place,_
+mto,n,3,place,_
+mito,n,4,place,_
+ziwa,n,5,place,_
+maziwa,n,6,place,_
+mlima,n,3,place,_
+milima,n,4,place,_
+kilima,n,7,place,_
+vilima,n,8,place,_
+jangwa,n,5,place,_
+majangwa,n,6,place,_
+kisiwa,n,7,place,_
+visiwa,n,8,place,_
+hifadhi,n,9,place,_
+hifadhi,n,10,place,_
+nyika,n,9,place,_
+nyika,n,10,place,_
+njia,n,9,place,_
+njia,n,10,place,_
+bonde,n,5,place,_
+mabonde,n,6,place,_
+rembo,a,_,_,human animal food_countable place thing
+zuri,a,_,_,human animal food_countable food_uncountable drink
+baya,a,_,_,human animal food_countable food_uncountable drink
+refu,a,_,_,human
+fupi,a,_,_,human
+vumilivu,a,_,_,human animal
+aminifu,a,_,_,human animal
+angalifu,a,_,_,human animal
+a polepole,a,_,_,human animal
+bunifu,a,_,_,human animal
+changa,a,_,_,human animal
+danganyifu,a,_,_,human animal
+dogo,a,_,_,human animal food_countable place thing
+ema,a,_,_,human animal food_countable food_uncountable drink place thing
+embamba,a,_,_,human animal
+nene,a,_,_,human
+nono,a,_,_,animal
+epesi,a,_,_,human animal food_countable thing
+zito,a,_,_,human animal food_countable thing
+erevu,a,_,_,human animal
+geni,a,_,_,human animal food_countable food_uncountable drink place thing
+gonjwa,a,_,_,human animal
+jeuri,a,_,_,human animal
+kali,a,_,_,human animal
+katili,a,_,_,human animal
+kavu,a,_,_,food_countable food_uncountable drink place thing
+kubwa,a,_,_,animal food_countable place thing
+kunjufu,a,_,_,human animal
+legevu,a,_,_,human animal
+makini,a,_,_,human animal
+nyofu,a,_,_,human
+ororo,a,_,_,food
+pana,a,_,_,place
+pevu,a,_,_,human animal food_countable
+bivu,a,_,_,food_countable
+bichi,a,_,_,food_countable
+pole,a,_,_,human animal
+pya,a,_,_,food_countable food_uncountable drink place thing
+shenzi,a,_,_,human
+shupavu,a,_,_,human animal
+tahadhari,a,_,_,human animal
+tepetevu,a,_,_,human animal
+tiifu,a,_,_,human animal
+tundu,a,_,_,human animal
+zee,a,_,_,human animal food_countable food_uncountable drink place thing
+zembe,a,_,_,human
+zima,a,_,_,human animal
+chapakazi,a,_,_,human animal
+nyenyekevu,a,_,_,human animal
+changamfu,a,_,_,human animal
+janja,a,_,_,human animal
+korofi,a,_,_,human animal
+eupe,a,_,_,animal food_countable food_uncountable drink thing
+eusi,a,_,_,animal food_countable food_uncountable drink thing
+ekundu,a,_,_,animal food_countable food_uncountable drink thing
+tamu,a,_,_,food_countable food_uncountable
+chungu,a,_,_,food_countable food_uncountable
+vivu,a,_,_,human animal
+kua,v,_,_,human animal place
+stawi,v,_,_,place
+anguka,v,_,_,human animal food_countable thing
+kimbia,v,_,_,human animal
+enda,v,_,_,human animal
+tembea,v,_,_,human animal
+ruka,v,_,_,human animal
+simama,v,_,_,human animal
+kaa,v,_,_,human animal
+lala,v,_,_,human animal
+pumua,v,_,_,human animal
+pumzika,v,_,_,human animal
+tengenezwa,v,_,_,thing
+undwa,v,_,_,thing
+potea,v,_,_,thing
+pikwa,v,_,_,food_countable food_uncountable drink
+liwa,v,_,_,food_countable food_uncountable
+nywewa,v,_,_,drink
