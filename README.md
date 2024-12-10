@@ -2,13 +2,12 @@
 This repository contains the code and datasets for "[Controlled Evaluation of Syntactic Knowledge in Multilingual Language Models](https://arxiv.org/abs/2411.07474)", accepted to appear at [LoResLM @ COLING 2025](https://loreslm.github.io).
 
 ## Repository Structure
-
 - **`data_generation/`**:
      - Vocabulary files and code used to generate synthetic test suites.
 
 - **`results_analysis/`**:  
      - Code for the processing and statistical analysis of evaluation results (including the 'performance versus size' and 'robustness to intervening content' analyses).
-     - Code for figures.
+     - Code for figures and the figures themselves.
      - Code for the Hindi PUD treebank examination.
 
 - **`samples/`**:  
@@ -20,3 +19,16 @@ This repository contains the code and datasets for "[Controlled Evaluation of Sy
 
 - **`evaluate.py`**:  
      - Script for evaluating LMs on test suites.
+ 
+## Citation
+```
+@article{kryvosheieva-2024-controlled-evaluation,
+      title={Controlled Evaluation of Syntactic Knowledge in Multilingual Language Models}, 
+      author={Daria Kryvosheieva and Roger Levy},
+      year={2024},
+      eprint={2411.07474},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.07474}, 
+}
+```
